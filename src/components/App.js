@@ -10,6 +10,7 @@ import history from '../history';
 
 
 //switch will show onlt one of the routes - the first it matches
+//
 const App = () => {
   return (
     <div className="ui container">
